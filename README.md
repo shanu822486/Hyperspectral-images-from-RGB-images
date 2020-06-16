@@ -43,6 +43,7 @@ Dataset:
 References:
 
 1. http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w13/Arad_NTIRE_2018_Challenge_CVPR_2018_paper.pdf
-2.http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w13/Shi_HSCNN_Advanced_CNN-Based_CVPR_2018_paper.pdf
+
+2. http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w13/Shi_HSCNN_Advanced_CNN-Based_CVPR_2018_paper.pdf
 
 3. https://competitions.codalab.org/competitions/18034#participate-getdata
